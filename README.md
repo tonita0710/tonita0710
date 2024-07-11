@@ -1,8 +1,7 @@
- ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+ ### Hi there I' am Antonia, a Data Scientist <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ### Let's start with a Joke ⤵️ 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-
 
 ###  ✒️ About Me :
 I'm Antonia Armenteros Garridos, <br> CI am excited for the change and the opportunity
