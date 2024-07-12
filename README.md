@@ -68,11 +68,6 @@ such as:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Linguistic programs at CEIP La Paloma <br>
 
 
-<details>
-<summary>
- ###  More stuff about me ⤵️ 
-</summary>
-
 
 ### Languages 🌐
 
