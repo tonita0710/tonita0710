@@ -87,7 +87,6 @@ such as:
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✔️Website:** [Antonia Armenteros](https://tarmenteros.es/inicio/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✔️Linkedin:** [Antonia Armenteros](https://www.linkedin.com/in/antonia-armenteros-51286a115/)<br>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✔️E-Mail:** tarmenteros.tiag@gmail.com <br> 
 <br>
 
@@ -96,8 +95,6 @@ such as:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonita0710)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tonita0710&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tonita0710)  
 
 
 
