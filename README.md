@@ -67,7 +67,7 @@ such as:
 
 <details>
 <summary>
-  More stuff about me ⤵️ 
+ ###  More stuff about me ⤵️ 
 </summary>
 
 
