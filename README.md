@@ -2,8 +2,6 @@
 
 ![Hi There](https://img.freepik.com/free-vector/seo-search-engine-optimization-doodle-icons_107791-9646.jpg?t=st=1720745883~exp=1720749483~hmac=45e337066b6791bdf7a0c74f87004cd294dc4bfe5da857d26bd8d2048def20e8&w=2000)
 
-
-
 ### Let's start with a Joke ⤵️ 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
