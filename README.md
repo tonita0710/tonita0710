@@ -1,7 +1,7 @@
  ### Hi there !  I' am Antonia, a Data Scientist <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
+](https://img.freepik.com/free-photo/business-data-analysis_53876-95296.jpg?t=st=1720740845~exp=1720744445~hmac=449370f1a91bddb910387b2a106531516f19768c399b8186f941d54719cc726c&w=2000)
 
- https://img.freepik.com/free-photo/business-data-analysis_53876-95296.jpg?t=st=1720740845~exp=1720744445~hmac=449370f1a91bddb910387b2a106531516f19768c399b8186f941d54719cc726c&w=2000
 
 ### Let's start with a Joke ⤵️ 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
