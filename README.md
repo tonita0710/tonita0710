@@ -1,6 +1,6 @@
  ### Hi there !  I' am Antonia, a Data Scientist <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-![Hi There](https://img.freepik.com/free-vector/futuristic-colorful-network-lines-backdrop-internet-connectivity-vector_1017-48461.jpg?t=st=1720745802~exp=1720749402~hmac=a9c65a715650bb10f3e581dd065232b1aa503cddf77bbbf3aae389b969d2cd83&w=2000))
+![Hi There](https://img.freepik.com/free-vector/seo-search-engine-optimization-doodle-icons_107791-9646.jpg?t=st=1720745883~exp=1720749483~hmac=45e337066b6791bdf7a0c74f87004cd294dc4bfe5da857d26bd8d2048def20e8&w=2000)
 
 
 
