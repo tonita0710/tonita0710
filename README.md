@@ -87,7 +87,8 @@ such as:
 ### How to reach me 📪
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✔️Website:** [Antonia Armenteros](https://tarmenteros.es/inicio/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✔️Linkedin:** [Antonia Armenteros]([https://www.linkedin.com/in/boisguenerubbens/](https://www.linkedin.com/in/antonia-armenteros-51286a115?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdJ0jD7HdTwGWwoQWBvrcXA%3D%3D))<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✔️Linkedin:** [Antonia Armenteros](https://www.linkedin.com/in/antonia-armenteros-51286a115/)<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✔️E-Mail:** tarmenteros.tiag@gmail.com <br> 
 <br>
 
